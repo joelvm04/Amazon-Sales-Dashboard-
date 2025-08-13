@@ -88,3 +88,4 @@ Regional Marketing – Focus promotions in high-performing states.
 Operational Efficiency – Spot delivery bottlenecks and unshipped orders quickly.
 
 🖼 Screenshots / Demo
+https://github.com/joelvm04/Amazon-Sales-Dashboard-/blob/main/AmazonSales.png
