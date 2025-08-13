@@ -1,10 +1,15 @@
-🛒 Amazon Sales Insights Dashboard
+# Amazon Sales Insights Dashboard
+
 A dynamic, interactive Power BI dashboard built to analyze Amazon sales performance across categories, regions, delivery partners, and fulfillment methods. Designed for sales teams, business analysts, and e-commerce strategists to track KPIs, identify trends, and optimize operations.
 
-📌 Short Description / Purpose
+
+# Short Description / Purpose
+
 The Amazon Sales Insights Dashboard is a visually engaging and analytical Power BI report that allows users to explore key sales metrics across multiple dimensions. It helps stakeholders track top-selling products, monitor courier performance, analyze fulfillment trends, and understand regional sales distribution.
 
-🛠 Tech Stack
+
+# Tech Stack
+
 The dashboard was built using the following tools and technologies:
 
 📊 Power BI Desktop – Main data visualization platform for building and publishing the dashboard.
@@ -17,75 +22,92 @@ The dashboard was built using the following tools and technologies:
 
 📁 File Format – .pbix for the dashboard file, .jpg/.png for visual previews.
 
-📊 Data Source
-Source: Internal Amazon sales dataset (sample data for demonstration).
 
-Data includes:
+# Data Source
 
-Product details (category, size)
+### Source: Internal Amazon sales dataset (sample data for demonstration).
 
-Sales amount and order volume
+### Data includes:
 
-Courier and fulfillment status
+1)Product details (category, size)
 
-Geographic shipping state
+2)Sales amount and order volume
 
-Time period of transactions
+3)Courier and fulfillment status
 
-🌟 Features / Highlights
-Business Problem
+4)Geographic shipping state
+
+5)Time period of transactions
+
+
+# Features / Highlights
+
+## Business Problem
+
 E-commerce platforms like Amazon generate massive amounts of sales data, but raw spreadsheets make it hard to track trends, identify best-selling products, or monitor delivery performance.
 
-Goal of the Dashboard
-To create an interactive, data-driven tool that:
+## Goal of the Dashboard
 
-Helps business users track sales trends at a glance
+1)To create an interactive, data-driven tool that:
 
-Highlights top product categories and sizes
+2)Helps business users track sales trends at a glance
 
-Monitors courier and fulfillment performance
+3)Highlights top product categories and sizes
 
-Supports regional sales analysis for strategic decisions
+4)Monitors courier and fulfillment performance
 
-Walkthrough of Key Visuals
+5)Supports regional sales analysis for strategic decisions
+
+
+## Walkthrough of Key Visuals
+
 1. Sales KPIs (Top Center)
+   
+   Total Sales Amount: 11,579K displayed in bold KPI card.
 
-Total Sales Amount: 11,579K displayed in bold KPI card.
+   Date Range Filter: Interactive slider to view trends over a specific period.
 
-Date Range Filter: Interactive slider to view trends over a specific period.
 
-2. Courier Status (Pie Chart)
+3. Courier Status (Pie Chart)
 
-Breakdown of order status: Shipped, On the Way, Cancelled, and Unshipped.
+   Breakdown of order status: Shipped, On the Way, Cancelled, and Unshipped.
 
-3. Top 5 Product Categories (Bar Chart)
 
-T-Shirts lead the category list, followed by Trousers, Wallets, Socks, and Shoes.
+6. Top 5 Product Categories (Bar Chart)
 
-4. Delivery Partner Performance (Bar Chart)
+   T-Shirts lead the category list, followed by Trousers, Wallets, Socks, and Shoes.
 
-Compares partners like BlueDart and Easy Ship by total orders fulfilled.
 
-5. Fulfillment Method (Bar Chart)
+9. Delivery Partner Performance (Bar Chart)
+    
+   Compares partners like BlueDart and Easy Ship by total orders fulfilled.
 
-Tracks orders fulfilled by Amazon vs. Merchant.
 
-6. Size Distribution (Bar Chart)
+11. Fulfillment Method (Bar Chart)
+    
+    Tracks orders fulfilled by Amazon vs. Merchant.
 
-Highlights demand across sizes XS, S, M, L, XL.
 
-7. Ship-State Analysis (Horizontal Bar Chart)
+13. Size Distribution (Bar Chart)
+    
+    Highlights demand across sizes XS, S, M, L, XL.
 
-Shows top shipping destinations, with Maharashtra and Karnataka leading.
 
-Business Impact & Insights
-Product Strategy – Identify top-selling categories and sizes to optimize inventory.
+15. Ship-State Analysis (Horizontal Bar Chart)
+    
+    Shows top shipping destinations, with Maharashtra and Karnataka leading.
 
-Logistics Optimization – Compare courier and fulfillment performance for efficiency gains.
 
-Regional Marketing – Focus promotions in high-performing states.
+## Business Impact & Insights
 
-Operational Efficiency – Spot delivery bottlenecks and unshipped orders quickly.
+1)Product Strategy – Identify top-selling categories and sizes to optimize inventory.
 
-🖼 Screenshots / Demo
-https://github.com/joelvm04/Amazon-Sales-Dashboard-/blob/main/AmazonSales.png
+2)Logistics Optimization – Compare courier and fulfillment performance for efficiency gains.
+
+3)Regional Marketing – Focus promotions in high-performing states.
+
+4)Operational Efficiency – Spot delivery bottlenecks and unshipped orders quickly.
+
+
+# Screenshots 
+![Dashboard](https://github.com/joelvm04/Amazon-Sales-Dashboard-/blob/main/AmazonSales.png)
